@@ -1,14 +1,13 @@
-## 👋 你好！我是 **geekmar**
+## Hi there **geekmar** 👋
 
 🔗 **GitHub**: [@geekmar](https://github.com/geekmar)
 
-### 关于我
-我是一名技术爱好者，对编程和开源项目充满热情。通过 GitHub 平台，我致力于学习新技术、分享代码，并与开发者社区建立联系。
+I'm a passionate programmer who loves building small tools and web-based mini-games. I enjoy turning ideas into projects that are useful, fun, and easy to use. On my GitHub, you'll find a variety of creations—from productivity utilities to interactive browser games.
 
-### 技术兴趣
-- 💻 软件开发
-- 🌐 开源项目贡献
-- 📚 持续学习新技术
+- 💻 I like experimenting with new technologies and frameworks.
+- 🎮 I have a special interest in game development, especially lightweight web games.
+- 🛠️ Most of my projects are open source—feel free to explore, use, and contribute!
 
-### 联系方式
-- GitHub: [@geekmar](https://github.com/geekmar)
+I'm always learning and eager to collaborate with other developers. If you find my projects interesting or want to connect, don’t hesitate to reach out!
+
+Thanks for visiting my profile!
